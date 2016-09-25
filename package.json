@@ -1,7 +1,7 @@
 {
   "name": "mediasmart-util",
   "description": "Wonderful reusable code from mediasmart http://mediasmart.io — Edit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/index.js",
   "homepage": "",
   "author": {
